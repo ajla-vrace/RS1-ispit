@@ -90,7 +90,7 @@ prezime:any;
       this.upisaneGodinePodaci[i].godinaStudija==this.upisGodine.godinaStudija &&
       this.upisGodine.obnova==false){
         this.upisGodine=null;
-        porukaError("Neuspjesno.");
+        porukaError("Neuspjesan upis godine.");
         return;
       }
     }
@@ -98,7 +98,7 @@ prezime:any;
      this.getupisaneGodine();
      this.upisGodine=null;
     });
-    porukaSuccess("uspjelo");
+    porukaSuccess("Uspjesan upis godine.");
   }
   SpasiOvjera() {
 
@@ -106,7 +106,7 @@ prezime:any;
       this.getupisaneGodine();
       this.ovjera=null;
     });
-    porukaSuccess("uspjelo");
+    porukaSuccess("Uspjesna ovjera.");
   }
 
 
