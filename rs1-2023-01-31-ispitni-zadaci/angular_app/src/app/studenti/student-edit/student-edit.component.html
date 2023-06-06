@@ -1,0 +1,35 @@
+<p>student-edit works!</p>
+<div    *ngIf="proslijedi.student!=null;" class="modal fade show" id="exampleModalLive" tabindex="-1" aria-labelledby="exampleModalLiveLabel" aria-modal="true" role="dialog" style="display: block;">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLiveLabel">Novi semestar za </h5>
+        <button type="button" class="btn-close" aria-label="Close" (click)="proslijedi.student=null;"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <label class="form-label">Ime</label>
+          <input class="form-control"   placeholder="Datum" [(ngModel)]="proslijedi.student.ime">
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Prezime</label>
+          <input class="form-control" placeholder="Godina studija" [(ngModel)]="proslijedi.student.prezime"/>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">Opstina</label>
+          <select class="form-control" [(ngModel)]="proslijedi.student.opstina_rodjenja_id" >
+<option *ngFor="let x of opstinePodaci" [value]="x.id">{{x.opis}}</option>
+          </select>
+        </div>
+
+
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="proslijedi.student=null;">Close</button>
+        <button type="button" class="btn btn-primary" (click)="spasi()">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
