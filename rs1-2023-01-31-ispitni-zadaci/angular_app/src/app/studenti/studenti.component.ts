@@ -81,4 +81,17 @@ dodaj(){
   otvoriMaticnu(s:any) {
     this.router.navigate(['student-maticnaknjiga',s.id]);
   }
+  brisiStudenta(s:any) {
+    this.httpKlijent.post(MojConfig.adresa_servera+ "/Student/Delete/" + s.id,null, MojConfig.http_opcije())
+      .subscribe((a:any) =>{
+        const index = this.studentPodaci.indexOf(s);
+        if (index > -1) {
+          this.studentPodaci.splice(index, 1);
+        }
+      });
+    this.httpKlijent.post(MojConfig.adresa_servera+ "/Student/GetAll",MojConfig.http_opcije()).subscribe(x=>{
+      this.studentPodaci = x;
+    });
+    alert("Odabrani student je obrisan!");
+  }
 }

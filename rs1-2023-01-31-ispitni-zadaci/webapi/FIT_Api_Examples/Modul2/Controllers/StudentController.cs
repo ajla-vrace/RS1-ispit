@@ -74,6 +74,19 @@ namespace FIT_Api_Examples.Modul2.Controllers
                 });
             return Ok(data);
         }
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            Student student = _dbContext.Student.Find(id);
+
+            if (student == null)
+                return BadRequest("pogresan ID");
+
+            _dbContext.Remove(student);
+
+            _dbContext.SaveChanges();
+            return Ok(student);
+        }
 
     }
 }

@@ -6638,11 +6638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\FIT_Api_Examples.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\FIT_Api_Examples.csproj",
       "projectName": "FIT_Api_Examples",
-      "projectPath": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\FIT_Api_Examples.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\FIT_Api_Examples.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V6w8cSWP3P36Ez+pi+EE31FTjqXR/MJtw7D/PTYFXy4=",
+  "Hash": "Jd/C3eGudrmpSNIWw1XskIQcmuj+kZstvSzgk1TgZy0=",
   "Source": "FIT_Api_Examples",
   "BasePath": "_content/FIT_Api_Examples",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "FIT_Api_Examples\\wwwroot",
       "Source": "FIT_Api_Examples",
-      "ContentRoot": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
       "BasePath": "_content/FIT_Api_Examples",
       "Pattern": "**"
     }
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.12\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\favicon.ico",
       "SourceId": "FIT_Api_Examples",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
       "BasePath": "_content/FIT_Api_Examples",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\index.html",
       "SourceId": "FIT_Api_Examples",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
       "BasePath": "_content/FIT_Api_Examples",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\profile_images\\8a6c995c-6ab8-4695-944d-8d35cc2e84a9.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\profile_images\\8a6c995c-6ab8-4695-944d-8d35cc2e84a9.jpg",
       "SourceId": "FIT_Api_Examples",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
       "BasePath": "_content/FIT_Api_Examples",
       "RelativePath": "profile_images/8a6c995c-6ab8-4695-944d-8d35cc2e84a9.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\profile_images\\8a6c995c-6ab8-4695-944d-8d35cc2e84a9.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\profile_images\\empty.png",
+      "Identity": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\profile_images\\empty.png",
       "SourceId": "FIT_Api_Examples",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Downloads\\rs1-2023-01-31-ispitni-zadaci (3)\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\rs1 ispit\\rs1-2023-01-31-ispitni-zadaci\\webapi\\FIT_Api_Examples\\wwwroot\\",
       "BasePath": "_content/FIT_Api_Examples",
       "RelativePath": "profile_images/empty.png",
       "AssetKind": "All",
